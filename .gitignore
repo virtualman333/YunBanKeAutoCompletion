@@ -2,6 +2,11 @@
 username.ini
 *.ini.bak
 
+# 原易语言版本（内含明文账号密码，已于 v2.0.1 从全部历史移除，禁止再次提交）
+云班课辅助工具V1.1.exe
+云班课资源一键已读.e
+*.e
+
 # Python
 __pycache__/
 *.py[cod]
