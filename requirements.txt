@@ -1,0 +1,7 @@
+# 运行依赖
+requests>=2.28.0
+
+# 图形界面使用标准库 tkinter，无需额外安装。
+# Linux 上如果 import tkinter 失败，请先装系统包：
+#   Debian/Ubuntu:  sudo apt install python3-tk
+#   Fedora:         sudo dnf install python3-tkinter

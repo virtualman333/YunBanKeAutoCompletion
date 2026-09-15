@@ -1,0 +1,25 @@
+# 凭证文件（含明文密码，绝对不要提交）
+username.ini
+*.ini.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 排障产物
+*.dump.html
+dump-*.html
+debug/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
